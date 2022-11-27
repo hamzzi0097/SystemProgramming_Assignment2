@@ -5,7 +5,7 @@ gcc -fpic -shared -o libman.so man.c
 <br>
 
 <b>making libeuc.so</b> <br>
-gcc -fpic -shared -o libeuc.so euc.c -lm<br>
+gcc -fpic -shared -o libeuc.so euc.c -lm
 <br>
 
 <b>run program</b><br>
