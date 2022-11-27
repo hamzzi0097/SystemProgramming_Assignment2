@@ -1,7 +1,7 @@
 # SystemProgramming_Assignment2
 
 <b>making libman.so</b> <br>
-gcc -fpic -shared -o libman.so man.c -lm
+gcc -fpic -shared -o libman.so man.c
 <br>
 
 <b>making libeuc.so</b> <br>
