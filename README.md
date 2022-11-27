@@ -9,4 +9,6 @@ gcc -fpic -shared -o libeuc.so euc.c -lm<br>
 <br>
 
 <b>run program</b><br>
-./prog input.txt
+./prog input.txt<br>
+
+*dms 파일들은 개발 과정 중에 생긴 파일들임
